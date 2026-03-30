@@ -1,2 +1,2 @@
 # TNSBankingSystem
-Banking System project in Java JDBC
+Banking System project in Java JDBC.
